@@ -1,0 +1,1 @@
+{"name":"testFunction","type":"function","source":{"https":"https://github.com/devthalal/_mydemoapp_testFunction","ssh":"git@github.com:devthalal/_mydemoapp_testFunction.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
